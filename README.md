@@ -1,10 +1,8 @@
-# React + TypeScript + Vite
-
 ## Desafio 01 To-Do List
 
 ![todo list](image.png)
 
-ToDo List é uma página wev para criação e controler de tarefas.
+ToDo List é uma página web para criação e controle de tarefas.
 
 Esse projeto é um dos desafios da trilha de React do Ignite
 
